@@ -1,5 +1,5 @@
 _repo: The-most-notable-Antiquity-of-Great-Britain-vulgarly-called-Stone-Heng-on-Salisbury-Plain-Res__64069
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   engineer:
     agent_name: Hollar, Wencelaus
@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '52740'
     url: http://www.gutenberg.org/2009/agents/52740
     wikipedia: https://en.wikipedia.org/wiki/Wenceslaus_Hollar
+covers:
+- cover_type: archival
+  image_path: 64069-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Inigo
@@ -34,6 +37,8 @@ creator:
     gutenberg_agent_id: '52739'
     url: http://www.gutenberg.org/2009/agents/52739
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64069#The-most-notable-Antiquity-of-Great-Britain-vulgarly-called-Stone-Heng-on-Salisbury-Plain-Res_
 gutenberg_issued: '2020-12-17'
 gutenberg_type: Text
 identifiers:
