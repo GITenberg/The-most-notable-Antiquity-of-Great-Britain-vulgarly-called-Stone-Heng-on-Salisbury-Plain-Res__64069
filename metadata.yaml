@@ -1,0 +1,56 @@
+_repo: The-most-notable-Antiquity-of-Great-Britain-vulgarly-called-Stone-Heng-on-Salisbury-Plain-Res__64069
+_version: 0.0.1
+contributor:
+  engineer:
+    agent_name: Hollar, Wencelaus
+    aliases:
+    - Hollar, W. (Wenceslaus)
+    - Hollar, Wenzel
+    - Holar, Wenceslaus
+    - Hollar, Václav
+    - Hollar, Winceslaus
+    - Hollar, Vaclav
+    - Hollar, Wenceslas
+    birthdate: 1607
+    deathdate: 1677
+    gutenberg_agent_id: '52740'
+    url: http://www.gutenberg.org/2009/agents/52740
+    wikipedia: https://en.wikipedia.org/wiki/Wenceslaus_Hollar
+creator:
+  author:
+    agent_name: Jones, Inigo
+    aliases:
+    - Jones, Henygo
+    - Iones, Inigo
+    birthdate: 1573
+    deathdate: 1652
+    gutenberg_agent_id: '52738'
+    url: http://www.gutenberg.org/2009/agents/52738
+    wikipedia: https://en.wikipedia.org/wiki/Inigo_Jones
+  editor:
+    agent_name: Webb, John
+    birthdate: 1611
+    deathdate: 1672
+    gutenberg_agent_id: '52739'
+    url: http://www.gutenberg.org/2009/agents/52739
+description: ''
+gutenberg_issued: '2020-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64069'
+  lccn: '47034301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wiltshire (England) -- Antiquities -- Early works to 1800'
+- !lcsh 'Prehistoric peoples -- England -- Wiltshire -- Early works to 1800'
+- !lcc 'DA'
+- !lcsh 'Stonehenge (England) -- Early works to 1800'
+- !lcsh 'Megalithic monuments -- England -- Wiltshire -- Early works to 1800'
+- GITenberg
+title: "The most notable Antiquity of Great Britain, vulgarly called Stone-Heng, on\
+  \ Salisbury Plain\r\nRestored by Inigo Jones Esquire, Architect Generall to the\
+  \ late King"
+url: http://www.gutenberg.org/ebooks/64069
